@@ -1,0 +1,8 @@
+In Python, variables are dynamic in nature, which means they can be reassigned to different types of values throughout the program's execution. This flexibility allows for more flexibility and adaptability in Python code. Here's an example that illustrates the dynamic nature of variables:x = 5
+print(x)  # Output: 5
+
+x = "Hello"
+print(x)  # Output: Hello
+
+x = [1, 2, 3]
+print(x)  # Output: [1, 2, 3]

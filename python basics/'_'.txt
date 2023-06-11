@@ -1,0 +1,5 @@
+Yes, it is possible to declare a variable with the name _ (underscore). In Python, the underscore is a valid character for variable names, and it can be used as a variable name when you want to indicate that the variable is temporary or its value is not going to be used.
+
+Here's an example:
+_ = 10
+print(_)  # Output: 10

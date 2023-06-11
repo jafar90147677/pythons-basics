@@ -1,0 +1,9 @@
+If you attempt to declare a variable using a keyword or reserved word in Python, 
+you will encounter a syntax error. Python's keywords are predefined and have special meanings in the language, so they cannot be used as variable names.
+
+For example, if you try to declare a variable with the name "for" or "if", which are 
+keywords used for loop constructs and conditional statements respectively, you will get a syntax error. Here's 
+an example:
+for = 5  # SyntaxError: can't assign to keyword
+To avoid this error, you should choose a different name 
+for your variable that is not a reserved keyword. You can either modify the variable name slightly, add underscores, or choose a more descriptive name that reflects the purpose of the variable.

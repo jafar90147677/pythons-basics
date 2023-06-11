@@ -1,0 +1,13 @@
+# Variable declaration with meaningful names
+student_name = "John Doe"
+age = 20
+
+# Constant declaration
+MAX_VALUE = 100
+
+# Avoiding single-letter names
+for item in items:
+    # do something
+
+# Avoiding ambiguous names
+result = calculate_total()
